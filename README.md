@@ -2,6 +2,10 @@
 A "basic" OpenGL program made in C++.
 (DEVELOPMENT CURRENTLY ABANDONED)
 
+# REQUIREMENTS
+Since some computers dont have GLU apparently, you might have to install GLEW, GLU, GLUT and other libraries. This command should do the work:
+```sudo apt-get install libglfw3-dev libgl1-mesa-dev libglu1-mesa-dev libglew-dev libsoil-dev freeglut3-dev```
+
 ## Controls
 Controls like rotation speed, "shading" or moving around are available when executing it on the terminal.
 
