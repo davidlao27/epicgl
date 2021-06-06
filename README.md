@@ -1,6 +1,6 @@
 # epicgl
 A "basic" OpenGL program made in C++.
-(DEVELOPMENT CURRENTLY ABANDONED)
+(DEVELOPMENT GOING ON RIGHT NOW)
 
 # REQUIREMENTS
 Since some computers dont have GLU apparently, you might have to install GLEW, GLU, GLUT and other libraries. This command should do the work:
