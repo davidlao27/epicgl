@@ -1,6 +1,8 @@
 # epicgl
 A "basic" OpenGL program made in C++.
 
+# Please consider reading the Wiki for further info
+
 # REQUIREMENTS
 Since some computers dont have certain dependencies, you might have to install GLEW, GLU, GLUT and other libraries. This command should do the work:<br>
 ```sudo apt-get install -y libglfw3-dev libgl1-mesa-dev libglu1-mesa-dev libglew-dev libsoil-dev freeglut3-dev```
